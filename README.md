@@ -1,17 +1,17 @@
-# PiS_Andryani
+# Mastermind
 
 
 
-## Getting started
+## Introduction
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+Mastermind is a code-breaking game for two players. Whereby a player set up the secret code to break and the other side breaking the code.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+## Set up
 
-## Add your files
+Clone this repository which is containing the game program. The game is named as Mastermind.java
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+Before start the game, players should set up the game rules on the left side
+![Alt text](ASSET/GameSetting.PNG "Game Setting")
 
 ```
 cd existing_repo
